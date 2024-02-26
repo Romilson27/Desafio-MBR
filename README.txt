@@ -28,7 +28,3 @@ Bem-vindo! Este projeto é um site de quiz simplificado, desenvolvido com HTML, 
 ## Desenvolvimento 
 Este projeto está em desenvolvimento, utilizei o conhecimento adquirido até o momento na faculdade de Ciência da Computação onde estou cursando o 1º Semestre. Tenho dificuldades ainda na parte de JS, React e APIs e por isso faltou muitas funcionalidades ao site.
 
-## Licença
-
-Este projeto está disponível sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
